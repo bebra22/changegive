@@ -351,7 +351,7 @@ def contact(message):
 
 			Данные
 
-			├Имя: {первое} {последнее}
+			├Имя: {first} {last}
 
 			├ID: {userid}
 
